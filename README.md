@@ -119,7 +119,8 @@ CodesForTomorrow/
   {
     "username": "testuser",
     "email": "testuser@example.com",
-    "password": "password123"
+    "password": "password123",
+    "role": "admin"   // optional by default It is a user
   }
   ```
 
